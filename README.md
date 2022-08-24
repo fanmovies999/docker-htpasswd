@@ -9,3 +9,8 @@ docker run --rm -ti ghcr.io/fanmovies999/htpasswd <username> <password> > htpass
 ```
 
 This will use bcrypt encryption.
+
+## Original source code :
+   xmartlabs
+   https://github.com/xmartlabs/docker-htpasswd
+   
